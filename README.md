@@ -1,4 +1,4 @@
-本程序实现了 均匀B样条曲线、准均匀B样条曲线以及分段Bezier的绘制。
+本程序实现了 均匀B样条曲线、准均匀B样条曲线以及分段Bezier曲线的绘制。
 
 本程序为参考[MATLAB绘制B样条曲线_NobodyZhou-CSDN博客](https://blog.csdn.net/mr_grit/article/details/45603627)进行修改注释学习，仅供笔者及同学参考，侵权删。
 
